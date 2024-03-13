@@ -1,0 +1,4 @@
+[submodule "galga"]
+	path = galga
+	url = git@git.vauxoo.com:vauxoo/galga.git
+	branch = 17.0
